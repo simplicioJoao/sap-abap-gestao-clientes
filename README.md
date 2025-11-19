@@ -6,6 +6,17 @@ Os arquivos do programa encontram-se na pasta `src/`, acompanhados do arquivo de
 
 ---
 
+## Z944620GESTAO_CLIENTES
+A seguir encontram-se imagens do resultado obtido com o desenvolvimento do programa e a posterior criação de uma transação para acesso facilitado aos usuários do SAP ERP.
+Pode-se observar que, apesar de o layout ser único, o design muda em poucos detalhes de acordo com o tema configurado pelo usuário logado.
+
+<div align="center">
+<img src="https://github.com/simplicioJoao/sap-abap-gestao-clientes/blob/main/transaction-sap-signature-theme.png" alt="Resultado no tema SAP Signature Theme" width="400" />
+<img src="https://github.com/simplicioJoao/sap-abap-gestao-clientes/blob/main/transaction-sap-quartz-dark-theme.png" alt="Resultado no tema Quartz Dark Theme" width="400" />
+</div>
+
+---
+
 ## 🛠 Requisitos
 
 - SAP ERP com suporte a ABAP 7.4+  
